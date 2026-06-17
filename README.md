@@ -44,6 +44,7 @@
 | [**Quran RAG**](https://github.com/Mohammed-Muneef/Quran_RAG) | Bilingual RAG system with hybrid retrieval (dense + BM25), RRF fusion, and cross-encoder reranking, serving cited answers. | Python, ChromaDB, BM25, Cross-Encoder |
 | [**Microservices Chat App**](https://github.com/Mohammed-Muneef/microservices_chat_app) | Real-time chat with AI moderation, sentiment, smart replies, translation & voice-to-text across event-driven services. | FastAPI, RabbitMQ, Redis, PostgreSQL, Docker |
 | [**Local AI Assistant**](https://github.com/Mohammed-Muneef/local-ai-assistant) | FastAPI wrapper around Ollama that benchmarks local LLMs with Pydantic-validated structured output. | FastAPI, Ollama, Pydantic |
+| [**Smart Traffic Analytics**](https://github.com/Mohammed-Muneef/trafffic_alert_system) | Real-time traffic monitoring with YOLOv8 vehicle detection, object tracking, flow counting and a Streamlit dashboard. | YOLOv8, OpenCV, Streamlit |
 | [**NYC Taxi Data Engineering**](https://github.com/Mohammed-Muneef/NYC-taxi-DE-project) | End-to-end lakehouse pipeline ingesting, cleansing & modeling NYC taxi data into Power BI insights. | Microsoft Fabric, Data Factory, Power BI |
 
 ---
