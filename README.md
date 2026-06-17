@@ -1,42 +1,75 @@
-<h1 align="center">Hi, I'm Mohammed Muneef 👋</h1>
+<!-- ====== HEADER ====== -->
+<a href="https://github.com/Mohammed-Muneef">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00B894&height=180&section=header&text=Mohammed%20Muneef&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38" alt="header"/>
+</a>
 
 <p align="center">
-  <b>AI/ML Engineer</b> — building Retrieval-Augmented Generation systems, LLM applications, and AI-powered microservices.
+  <a href="https://github.com/Mohammed-Muneef">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer;RAG+%26+LLM+Developer;Building+AI-powered+applications;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mohammed-Muneef?tab=repositories"><img src="https://img.shields.io/badge/Focus-RAG%20%7C%20LLMs%20%7C%20MCP-6C5CE7?style=flat-square" alt="Focus"/></a>
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Muneef&style=flat-square&color=6C5CE7" alt="Profile views"/>
 </p>
 
 ---
 
-### 🚀 About Me
+<!-- ====== ABOUT ====== -->
+### 👨‍💻 About Me
+
+```python
+class MohammedMuneef:
+    role        = "AI/ML Engineer"
+    location    = "Mangalore, India 🇮🇳"
+    company     = "Pace Wisdom Solutions"
+    focus       = ["RAG systems", "LLM applications", "AI microservices"]
+    currently   = "Building production-grade retrieval & agentic systems"
+    learning    = ["agentic AI", "retrieval evaluation", "MLOps"]
+```
 
 - 🔭 I build **production-grade RAG pipelines** — hybrid retrieval (dense + BM25), Reciprocal Rank Fusion, and cross-encoder reranking.
 - 🤖 I work with **LLMs** end-to-end: local inference (Ollama), structured outputs, MCP servers, and AI microservices.
 - 🛠️ Comfortable across the stack — **FastAPI** backends, event-driven **microservices**, and **data-engineering** pipelines.
-- 📚 Always learning — currently going deeper on agentic systems, evaluation, and retrieval quality.
+- 🌱 Always learning — currently going deeper on agentic systems, evaluation, and retrieval quality.
 
 ---
 
+<!-- ====== TECH STACK ====== -->
 ### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LLMs%20%26%20RAG-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Data Engineering**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
+<!-- ====== FEATURED PROJECTS ====== -->
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
@@ -49,6 +82,7 @@
 
 ---
 
+<!-- ====== GITHUB STATS ====== -->
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -56,13 +90,18 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Muneef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
----
-
-### 🤝 Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/mohammed-muneef-404186241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Mohammed-Muneef"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Muneef&theme=tokyo-night&hide_border=true&area=true&color=6C5CE7&line=00B894&point=ffffff" alt="Activity graph" width="92%"/>
 </p>
 
-<p align="center"><i>📍 Mangalore, India · 💼 Pace Wisdom Solutions</i></p>
+---
+
+<!-- ====== CONNECT ====== -->
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-muneef-404186241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Mohammed-Muneef"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,100:6C5CE7&height=120&section=footer" alt="footer"/>
